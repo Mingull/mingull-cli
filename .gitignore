@@ -5,3 +5,4 @@ tests
 .turbo
 .husky
 .prettierrc
+commitlint.config.js
