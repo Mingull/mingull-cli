@@ -18,7 +18,7 @@
 		"attw": "attw --pack",
 		"release": "turbo lint test attw && changeset publish",
 		"commitlint": "commitlint --edit",
-		"commit": "git-cz"
+		"commit": "git add . && git-cz"
 	},
 	"keywords": [
 		"CLI"
